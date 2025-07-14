@@ -1,4 +1,4 @@
 # belajar-kolaborasi
 Dicoding Bootcamp: Course Git (Squash and merge)
 
-Edit 2
+This Readme.md are edited 3 times as required by the course
